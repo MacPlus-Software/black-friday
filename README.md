@@ -33,6 +33,7 @@ Mac apps from makers we like.
 | App | What it does | Deal |
 | --- | --- | --- |
 | [BoltAI](https://boltai.com/pricing) | The native AI workspace for Mac and iPhone: chats, agents and projects with ChatGPT, Claude, Gemini and local models. | **40% off** with code **`BFCM2026`**: Pro ~~$99~~ **$59**, Lifetime ~~$399~~ **$239**, until December 1, 2026 |
+| [Sip](https://sipapp.io/) | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | **50% off** with code **`BLACKFRIDAY26`** Nov 27–29 and **`CYBERMONDAY26`** Nov 30–Dec 2, 2026 ([Black Friday](https://sipapp.io/blackfriday/) · [Cyber Monday](https://sipapp.io/cybermonday/)) |
 
 ---
 
